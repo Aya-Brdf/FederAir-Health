@@ -275,7 +275,6 @@ FederAir-Health/
 │   ├── common/                  # configuration et sécurité partagées
 │   ├── node_environment/        # nœud propriétaire Environment
 │   ├── node_hospital/           # nœud propriétaire Hospital
-│   ├── laboratory/              # espace réservé aux analyses du labo
 │   └── intelligence_api.py      # API locale des résultats ML
 ├── data/
 │   ├── environment/             # SQLite TP d'origine
